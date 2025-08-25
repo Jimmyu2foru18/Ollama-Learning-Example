@@ -1,0 +1,10 @@
+<-- Example for OLLAMA and Gemma 3:4 B !-->
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#responseArea {
+  margin-top: 20px;
+  font-size: 16px;
+}
