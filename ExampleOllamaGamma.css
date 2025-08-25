@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   font-family: system-ui, -apple-system, sans-serif;
   margin: 0;
@@ -72,3 +73,15 @@ button:hover {
   overflow-y: auto;
   max-height: 250px;
 }
+=======
+<-- Example for OLLAMA and Gemma 3:4 B !-->
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#responseArea {
+  margin-top: 20px;
+  font-size: 16px;
+}
+>>>>>>> 793fe1164009dc72581063c79991e946f7e159b4
