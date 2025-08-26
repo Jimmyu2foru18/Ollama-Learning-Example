@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ollama Gemma 3 Demo
 
 This project demonstrates a simple web application that interacts with a locally running Ollama instance hosting the Gemma 3:4b model.
@@ -100,5 +99,4 @@ Model Size: The Gemma 3:4b model is a relatively large model. Ensure you have en
 ```
 This will display the basic web page, and you can start typing prompts and see Gemma 3:4b's response.  This is a starting point; you can expand on this by adding features like a more sophisticated UI, logging, and more robust error handling.
 Downloading model
->>>>>>> 793fe1164009dc72581063c79991e946f7e159b4
 0 B / 0 B (0%)
